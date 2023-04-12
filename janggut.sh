@@ -80,7 +80,7 @@ elif [[ -e /etc/centos-release ]]; then
 	OS=centos
 fi
 
-echo "janggut"
+echo "juazBoot"
 echo "Progress..."
 sleep 2
 
