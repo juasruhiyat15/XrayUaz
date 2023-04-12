@@ -1,4 +1,4 @@
-# Autoscript XrayCol
+# Autoscript XrayUaz
 
 ## Tested only on Ubuntu 20.04 <br>
 
@@ -15,7 +15,7 @@ wget -q -O auto.sh https://raw.githubusercontent.com/juasruhiyat15/Juas-Xray-Dom
 ## Installation Link<br>
 
 ```html
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/vlu4a.sh && chmod
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/juasruhiyat15/XrayUaz/main_juasrhiyat15/vlu4a.sh && chmod
 +x vlu4a.sh && ./vlu4a.sh
 ```
 
