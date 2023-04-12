@@ -140,7 +140,7 @@ echo ""
 read -n 1 -s -r -p "Press any key to back on menu"
 menu
 }
-wget -q -O /root/status "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/statushariini"
+wget -q -O /root/status "https://raw.githubusercontent.com/juasruhiyat15/XrayUaz/main_juasrhiyat15/statushariini"
 LocalVersion=$(cat /root/versi)
 IPVPS=$(curl -s ipinfo.io/ip )
 ISPVPS=$( curl -s ipinfo.io/org )
@@ -151,7 +151,7 @@ echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━�
 echo -e "\E[39;1;92m                   ⇱ SERVER INFORMATION ⇲                      \E[0m"
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 echo -e "${BICyan} "                                                                      
-echo -e "${BICyan} ⇲  ${BICyan}Script Name     :  ${BIYellow}XrayCol V $LocalVersion${NC}"    
+echo -e "${BICyan} ⇲  ${BICyan}Script Name     :  ${BIYellow}XrayUaz V $LocalVersion${NC}"    
 echo -e "${BICyan} ⇲  ${BICyan}Current Domain  :  ${BIYellow}$(cat /etc/xray/domain)${NC}" 
 echo -e "${BICyan} ⇲  ${BICyan}Ip-vps          :  ${BIYellow}$IPVPS${NC}"
 echo -e "${BICyan} ⇲  ${BICyan}ISP             :  ${BIYellow}$ISPVPS${NC}"  
